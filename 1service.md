@@ -12,4 +12,4 @@
 
 * What is the name of the direction indicator connectors?
 
-sample from other Tiger owner
+**sample from other Tiger owner
