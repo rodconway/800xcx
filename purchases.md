@@ -18,15 +18,18 @@
 ### Switchcube Assembly, LH - Part No. T2042262
 * Hermy's Triumph, Port Clinton, PA
 * Date: 20190725
-* $141.06
+* Cost: $141.06
 * Notes: Needed for replacing clutch safety switch, that only comes as part of the entire switch cube assembly. Damaged clutch safety switch wiring doing Magura Hymec Clutch project.
 
 ----
 
-### Pivot Pegz
-* revzilla.com (shared transaction)
-* Date 20131217
-* ~~Jason owes Tony USD161.45 (AUD181.81) from a total transaction of USD322.90 (AUD363.63)~~
+### Lower Cowl, RH, Painted - Part No. T2306679-LS
+* Hermy's Triumph, Port Clinton, PA
+* Date: 20190807
+* Cost: $50.72
+* Notes: Replaced due to crack.
+* Ordering: 20190726 - Replacement part - Sent the incorrect part. I believe I ordered the correct part. 2017 Triumph Tiger 800 XCx - Need lower cowling for throttle side. I ordered: T2306679-LS	1	$ 50.72	Lower Cowl, RH, Pntd, Graphite. I received an upper cowl for an XR. T2306646-PR  - Upper Rad Cowl, RH, Pntd. On the outside of the foam wrapping is T2306679-LS, but on the back of the part, it's labeled T2306646-PR. Please see the attached photos for reference.
+
 
 ----
 
