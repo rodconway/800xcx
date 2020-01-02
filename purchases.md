@@ -4,8 +4,7 @@
 
 ### Uniflow pre-cleaner
 * uniflow.com
-* Date: 20131205
-* ~~Jason owes Tony: AUD28.25~~
+* FUTURE Purchase
 
 ----
 
@@ -16,10 +15,11 @@
 
 ----
 
-### Heated grips, sub harness, swingarm spools
-* shorelinemotorsports.com (shared transaction)
-* Date: 20131212
-* ~~Jason owes Tony: USD213.88 (AUD248.59) from a total transaction of USD803.76 (AUD934.20)~~
+### Switchcube Assembly, LH - Part No. T2042262
+* Hermy's Triumph, Port Clinton, PA
+* Date: 20190725
+* $141.06
+* Notes: Needed for replacing clutch safety switch, that only comes as part of the entire switch cube assembly. Damaged clutch safety switch wiring doing Magura Hymec Clutch project.
 
 ----
 
