@@ -13,6 +13,8 @@
 
 * Lower Clutch Cable Braket
 
+* Super sticky 3M double-sided tape
+
 * T3331661	(1)	$2.94	Bolt, But/Hd, M6 x 20, Shld, Slv
 
 * T3331436	(5)	$3.78	Screw, S/Tap, Pan, Torx, 4 x 11, PT
