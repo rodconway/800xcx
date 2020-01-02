@@ -8,12 +8,53 @@
 
 ----
 
-### Triumph tank pad
-* Sunstate Motorcycles, Maroochydore
-* Date: 20131207
-* ~~Tony owes Jason: AUD40.00~~
+### Triumph Tiger 800/XC Rubber Tank Pad A9798028
+* Cascade Moto Classics, Inc., Beaverton, OR
+* Date: 20170809
+* Cost: $40.50
+* Notes: Purchased with gift card rebate from Triumph
 
 ----
+
+### Triumph Tiger Fog Light Kit A9838021
+* Cascade Moto Classics, Inc., Beaverton, OR
+* Date: 20171216
+* Cost: $300.00
+* Notes: Purchased with gift card rebate from Triumph
+
+----
+
+### Triumph 20L Tank Bag A9510169
+* Triumph
+* Date: 20181126
+* Cost: $33.00
+* Notes: End of year discount sale.
+
+----
+
+### Adjustable High Screen Kit, US A9708400
+* Triumph
+* Date: 20181126
+* Cost: $53.00
+* Notes: End of year discount sale. Plan on returning for credit in 2020.
+
+---
+
+### S/Arm Pivot Covers Silver A9788027
+* Triumph
+* Date: 20181126
+* Cost: $10.00
+* Notes: End of year discount sale.
+
+---
+
+### CNC-machined Clutch Cable Guide Bracket (red) A9610066
+* Triumph
+* Date: 20181126
+* Cost: $14.00
+* Notes: End of year discount sale.
+
+---
 
 ### Switchcube Assembly, LH - Part No. T2042262
 * Hermy's Triumph, Port Clinton, PA
