@@ -1,5 +1,5 @@
 ### Triumph Tiger 800 XCX - OEM Clutch Cable Replacement Parts List
-* T2042262 (1) Switchcube Assy, LH [ ]
+* T2042262 (1) Switchcube Assy, LH []
 
 * T2306679-LS (1) Lower Cowl, RH, PNTD
 
