@@ -1,4 +1,8 @@
 ### Triumph Tiger 800 XCX - OEM Clutch Cable Replacement Parts List
+* T2042262 (1) Switchcube Assy, LH [ ]
+
+* T2306679-LS (1) Lower Cowl, RH, PNTD
+
 * T3331661	(1)	$2.94	Bolt, But/Hd, M6 x 20, Shld, Slv
 
 * T3331436	(5)	$3.78	Screw, S/Tap, Pan, Torx, 4 x 11, PT
@@ -21,4 +25,4 @@
 
 * T1170085	(1)	$3.67	Spring
 
-Notes: Spare parts for OEM clutch cable project.
+Notes: Spare parts for OEM clutch cable project to remove Magura Hymec Clutch Assembly that did not work as needed. Bike still creeps after adjustments made. Magura was out of answers.
